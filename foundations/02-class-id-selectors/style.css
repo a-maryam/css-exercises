@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, sans-serif;
+}
+.red {
+    background-color:rgb(255, 153, 153);
+    color:black;
+}
+
+.cooler {
+    font-size: 30px;
+}
+
+#number2 {
+    color:blue;
+    font-size:46px;
+}
+
+#number4 {
+    font-weight:bold;
+    font-size:28px;
+    background-color: rgb(153, 255, 153);
+}
