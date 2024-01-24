@@ -1,0 +1,14 @@
+.clickme, .noclickme {
+    font-size: 34px;
+    text-align: center;
+}
+
+.clickme {
+    color:white;
+    background-color:black;
+}
+
+.noclickme {
+    color:black;
+    background-color:yellow;
+}
